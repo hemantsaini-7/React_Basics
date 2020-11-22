@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+}
+nav {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  position: fixed;
+  width: 100vw;
+}

@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+}
+nav {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  position: fixed;
+  width: 100vw;
+}
+.ul {
+  background-color: aqua;
+}
+.li {
+  background-color: chartreuse;
+}
+.side-active {
+  background-color: chocolate;
+  height: 100vh;
+  width: 20vw;
+  position: fixed;
+  top: 0;
+  /* left: -100%; */
+}
+.side-deactive {
+  background-color: aqua;
+  height: 100vh;
+  width: 20vw;
+  position: fixed;
+  top: 0;
+  left: 0%;
+}
